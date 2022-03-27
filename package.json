@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/JeanReyes/jnra-lib",
+    "type": "git"
+  },
   "engines": {
     "node": ">=10"
   },
